@@ -1,4 +1,4 @@
-# hey, arihant here
+# hey, ayaan here
 
 i'm a computer science student and software explorer who spends most of my time turning ideas into functional apps and grinding leetcode.
 
