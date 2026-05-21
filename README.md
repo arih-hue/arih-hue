@@ -22,5 +22,4 @@ here's some of the tech and skills i've picked up along the journey:
 
 ### 🚀 what i'm up to
 * 🛠️ building high-performance mobile apps with **flutter**.
-* 🏆 competing in **hacksagon** at iiit gwalior.
 * 💡 constantly looking for the next problem to solve.
