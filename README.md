@@ -1,8 +1,8 @@
 # hey, ayaan here
 
-i'm a computer science student and software explorer who spends most of my time turning ideas into functional apps and grinding leetcode.
+i'm a computer science student and machine learning enthusiast who spends most of my time building intelligent systems, exploring data, and **grinding leetcode**.
 
-| 🧩 problem solver | 📱 Android fanatic | 💡 always building
+| 🤖 machine learning | 📊 data science | 💡 always building
 
 ---
 
@@ -10,16 +10,19 @@ i'm a computer science student and software explorer who spends most of my time 
 
 here's some of the tech and skills i've picked up along the journey:
 
-* 🐍 **languages: python | dart | c++ | java | kotlin**
-* 📱 **app dev: flutter | Android Native**
-* 📓 **python ecosystem: jupyter | python libraries**
-* 📦 **version control & tools: git**
-* 🤝 **core skills: problem solving | teamwork | innovation**
+* 🐍 **languages:** python | c++ | java | kotlin 
+* 🤖 **machine learning:** scikit-learn | pandas | numpy
+* 📊 **data visualization:** matplotlib | seaborn | jupyter
+* 🧠 **ml skills:** data preprocessing | feature engineering | model training | model evaluation
+* 📦 **version control & tools:** git | github
+* 🤝 **core skills:** problem solving | teamwork | innovation
 
-🌙 **running on dark mode and deep focus.**
+🌙 **running on dark mode, datasets, and deep focus.**
 
 ---
 
 ### 🚀 what i'm up to
-* 🛠️ building high-performance mobile apps with **flutter**.
-* 💡 constantly looking for the next problem to solve.
+
+* 🤖 building end-to-end machine learning projects with real-world datasets.
+* 📈 exploring data, engineering features, and training predictive models.
+* 💡 constantly learning AI, machine learning, and solving challenging problems.
